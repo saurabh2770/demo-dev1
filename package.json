@@ -1,0 +1,29 @@
+{
+  "name": "dev1",
+  "version": "0.0.1",
+  "description": "fmb920",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabh2770/demo-dev1.git"
+  },
+  "keywords": [
+    "fmb920",
+    "aws",
+    "iot"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabh2770/demo-dev1/issues"
+  },
+  "homepage": "https://github.com/saurabh2770/demo-dev1#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
